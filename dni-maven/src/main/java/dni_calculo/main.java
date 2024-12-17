@@ -1,10 +1,10 @@
-package com.ejemplo;
+package dni_calculo;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class main 
 {
     public static void main( String[] args )
     {
